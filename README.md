@@ -3,7 +3,7 @@
 # Summary
 This demo contains the Foraging Spots of Great Whale's migration routes with a time filter of 2009 in North Atlantic Ocean. 
 
-***Final map animation:*** 
+***Final map animation:*** https://bryanvallejo16.github.io/whale-tracking-azores-II/
 
 ***Tutorial:*** 
 
