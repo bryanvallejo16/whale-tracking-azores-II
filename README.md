@@ -8,6 +8,6 @@ This demo contains the Foraging Spots of Great Whale's migration routes with a t
 ***Tutorial:*** 
 
 # Map animation 
-![animation](gif/azores-whales-ii-gif.gif)
+![animation](gif/azores-whales-ii.gif)
 
 <a href="https://www.buymeacoffee.com/bryan.vallejo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 2px !important;width: 6px !important;" ></a>
