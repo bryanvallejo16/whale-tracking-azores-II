@@ -5,7 +5,7 @@ This demo contains the Foraging Spots of Great Whale's migration routes with a t
 
 ***Final map animation:*** https://bryanvallejo16.github.io/whale-tracking-azores-II/
 
-***Tutorial:*** 
+***Tutorial:*** https://towardsdatascience.com/foraging-spots-detection-in-great-whales-migration-routes-19ee4540930e
 
 # Map animation 
 ![animation](gif/azores-whales-ii.gif)
